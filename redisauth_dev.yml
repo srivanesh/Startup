@@ -1,0 +1,9 @@
+REDIS_HOST: dld-ancuecom-wag-02.redis.cache.windows.net
+REDIS_PORT: 6380
+REDIS_PASSWORD: yt1b0EJTpDyavWOwBpchxzCZcchRvcJw3rjJdbrYjeU=
+
+security:
+  jwt:
+    akvClientId: 98263090-0076-4a90-aaed-bd8c66224316
+    akvClientSecret: EOPW5GJy+vHTxTuatGKSD4Rs/mcl6/1?
+    vaultUrl: https://cs-dev-vault.vault.azure.net/
